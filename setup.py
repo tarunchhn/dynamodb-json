@@ -22,7 +22,6 @@ if sys.argv[-1] == 'publish':
 
 install_requires = [
     'simplejson>=3.10.0',
-    'boto3>=1.4.0',
     'six'
 ]
 

@@ -1,3 +1,6 @@
+# Note
+This fork just removes the boto dependencies to help reduce the aws lambda package size
+
 # DynamoDB Json
 DynamoDB json util to load and dump strings of Dynamodb json format to python object and vise-versa
 
